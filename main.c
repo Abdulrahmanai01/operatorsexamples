@@ -1,5 +1,15 @@
 #include <stdio.h>
-
+int additionprogram(int a,int b);
+int subractionprogram(int a, int b);
+int multiplicationprogram(int a,int b);
+    int divitionprogram(int a,int b);
+   int moduleprogram(int a,int b);
+    int incrementprogram(int a);
+    int decrementprogram(int a);
+    int logicalprogram();
+    int assignmentprogram();
+    int comparison();
+     
 int main()
  {
      int a=10;
